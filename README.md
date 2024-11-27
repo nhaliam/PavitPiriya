@@ -5,9 +5,10 @@
 
   
 ## 📧 Contact : 
-gmail: [pawitpiriya@gmail.com]  
-phone: 080-925-5541              
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/pavitpiriya/)
+phone: 080-925-5541  
+gmail: [pawitpiriya@gmail.com]              
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/pavitpiriya/)                      
+
 
 ## About Me : 
 I am a dedicated student currently pursuing my studies at
