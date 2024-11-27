@@ -10,7 +10,7 @@ gmail: [pawitpiriya@gmail.com]
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/pavitpiriya/)                      
 
 
-## About Me : 
+## 𖠋 About Me : 
 I am a dedicated student currently pursuing my studies at
 Mahidol University in the ICT faculty, where I’m focused on
 advancing my programming skills. Known for being a quick
@@ -21,9 +21,9 @@ take on fresh challenges in the tech world.
 
 
 
-## experience :
+## 💼 Experience :
 -
 
-## certificates :
+## 🎖️ Certificates :
 -
 
