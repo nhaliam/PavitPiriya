@@ -18,7 +18,7 @@ learner, I am adaptable and thrive in new environments, ready to
 take on fresh challenges in the tech world.         
 ## 🔧 Skills :
 - C language
-
+- Java
 
 
 ## 💼 Experience :
